@@ -3,10 +3,6 @@ Hello there, nice youve found one of githubs best kept secrets (not that github 
 I'm a opensource lover, lover of good beer and most notably a very lazy person.
 So head on, dig through my profile and discover some of the hottest stuff, github has to offer (or at least what I can offer).
 Cheers 👋
-<br>
-Ps: also I love gifs, so here you go.
-<br>
-<iframe src="https://tv.giphy.com/cat" alt="this could have been your chance to see cats."></iframe>
 
 <!--
 **herrsunchess/herrsunchess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
