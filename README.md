@@ -1,7 +1,7 @@
-### Hi there I'm herrsunchess👋
+### Hi there I'm herrsunchess
 Hello there, nice youve found one of githubs best kept secrets (not that github is aware of).
 I'm a opensource lover, lover of good beer and most notably a very lazy person.
-So head on, dig through my profile and discover some of the hottest stuff, github has to offer (or at least what I can offer).
+So head on, dig through my profile and discover some of the hottest stuff, github has to offer (or at least what I can offer).</br>
 Cheers 👋
 
 <!--
